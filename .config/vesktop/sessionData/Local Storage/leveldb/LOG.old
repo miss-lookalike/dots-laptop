@@ -1,0 +1,9 @@
+2025/01/21-20:28:21.489 537 Reusing MANIFEST /home/syd/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/01/21-20:28:21.496 537 Recovering log #3
+2025/01/21-20:28:21.497 537 Reusing old log /home/syd/.config/vesktop/sessionData/Local Storage/leveldb/000003.log 
+2025/01/21-20:34:40.544 525 Level-0 table #5: started
+2025/01/21-20:34:40.555 525 Level-0 table #5: 44231 bytes OK
+2025/01/21-20:34:40.557 525 Delete type=0 #3
+2025/01/21-20:41:21.655 526 Level-0 table #7: started
+2025/01/21-20:41:21.694 526 Level-0 table #7: 28069 bytes OK
+2025/01/21-20:41:21.695 526 Delete type=0 #4
