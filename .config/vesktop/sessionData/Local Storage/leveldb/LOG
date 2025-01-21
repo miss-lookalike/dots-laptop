@@ -1,9 +1,0 @@
-2025/01/21-20:46:46.251 1334 Reusing MANIFEST /home/syd/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
-2025/01/21-20:46:46.255 1334 Recovering log #6
-2025/01/21-20:46:46.255 1334 Reusing old log /home/syd/.config/vesktop/sessionData/Local Storage/leveldb/000006.log 
-2025/01/21-20:47:46.480 1334 Level-0 table #10: started
-2025/01/21-20:47:46.492 1334 Level-0 table #10: 39545 bytes OK
-2025/01/21-20:47:46.493 1334 Delete type=0 #6
-2025/01/21-20:51:46.480 1333 Level-0 table #12: started
-2025/01/21-20:51:46.493 1333 Level-0 table #12: 35050 bytes OK
-2025/01/21-20:51:46.494 1333 Delete type=0 #9
