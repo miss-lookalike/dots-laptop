@@ -5,6 +5,7 @@
 @define-color   green   #31748f;
 @define-color   blue    #343434;
 @define-color   yello   #f6c177;
+@define-color   mauve   #cba6f7;
 
 
 * {
@@ -36,13 +37,13 @@ button {
 }
 
 #workspaces button:hover {
-  color: @blue;
+  color: @mauve;
   box-shadow: none;
 }
 
 #workspaces button.active,
 #workspaces button.focused {
-  color: @blue;
+  color: @mauve;
 }
 
 #workspaces button.urgent {
