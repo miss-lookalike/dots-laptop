@@ -272,6 +272,13 @@ local default_plugins = {
       require("which-key").setup(opts)
     end,
   },
+
+  {
+    'vyfor/cord.nvim',
+    build = './build || .\\build',
+    event = 'VeryLazy',
+    opts = {}, -- calls require('cord').setup()
+  },
 }
 
 local config = require("core.utils").load_config()
