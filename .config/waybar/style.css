@@ -15,9 +15,9 @@
 }
 
 window#waybar {
-  background: rgba(46, 46, 46, 0.9);
-  border: 2px solid @base;
-  border-radius: 8px;
+  background: rgba(46, 46, 46, 0.7);
+  border: 0px solid @base;
+  border-radius: 0px;
   color: @text;
 }
 
