@@ -9,6 +9,10 @@ config.font = wezterm.font 'JetBrains Mono'
 config.font_size = 11
 config.color_scheme = "Catppuccin Mocha"
 
+
+
+
+
 -- multiplexing
 config.leader = {key = 'a', mods = 'CTRL', timeout_milliseconds = 1000 }
 config.keys = {
