@@ -4,6 +4,8 @@
 #
 # Read `man 5 sway` for a complete reference.
 
+include catppuccin-mocha
+
 ### Variables
 #
 # Logo key. Use Mod1 for Alt.
@@ -17,6 +19,7 @@ set $right l
 set $term wezterm
 # Your preferred application launcher
 set $menu wofi --conf ~/dotfiles/.config/wofi/config/config --style ~/dotfiles/.config/wofi/src/mocha/style.css
+
 
 ### Output configuration
 #
@@ -224,5 +227,12 @@ bar swaybar_command waybar
 #         inactive_workspace #32323200 #32323200 #5c5c5c
 #     }
 # }
+
+# Appearance
+gaps inner 3
+gaps outer 3
+
+default_border pixel 2
+client.focused $mauve $mauve $mauve $mauve
 
 include @sysconfdir@/sway/config.d/*
