@@ -93,7 +93,7 @@
         ""
       ]
     },
-    "on-click": "kitty pulsemixer"
+    "on-click": "pavucontrol"
   },
   "image": {
     "path": "/home/syd/Downloads/arch.png",
