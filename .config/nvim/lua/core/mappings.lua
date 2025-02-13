@@ -467,6 +467,7 @@ M.gitsigns = {
       "Toggle deleted",
     },
   },
+
 }
 
 return M

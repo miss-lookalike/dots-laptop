@@ -24,6 +24,9 @@ set $menu wofi --conf ~/dotfiles/.config/wofi/config/config --style ~/dotfiles/.
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in @datadir@/backgrounds/sway/)
+output HDMI-A-1 pos 0 0 res 3840x2160 
+workspace 8 output HDMI-A-1
+output eDP-1 pos 1920 0 res 1920x1080
 output * bg ~/wallpapers/mocha/eva_1.png fill
 
 # Example configuration:
